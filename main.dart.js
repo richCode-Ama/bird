@@ -960,9 +960,7 @@ n=n/2-75
 p=p.gfj().b-12.5
 n=o.r=new P.a8(n,p,n+150,p+75)
 o.x=P.Ik(n,new P.bq(4,4))
-m=H.bd()
-o.d=m
-o.y=m
+
 p=L.jM(q,"",30,p-e/2,4284510075)
 o.z=p
 n=L.jM(q,"Replay",25,n.gfj().b,4294638330)
